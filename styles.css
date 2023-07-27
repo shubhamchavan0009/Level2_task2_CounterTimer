@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url(./backnew-4.webp);
+    background-size: 100%;
+    
+  }
+  
+  h1 {
+    color: #97902f;
+  }
+  
+  #timer {
+    font-size: 48px;
+    color: #1daeac;
+    margin-top: 20px;
+  }
+  
